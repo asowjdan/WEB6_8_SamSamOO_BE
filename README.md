@@ -1,4 +1,4 @@
-# 👨‍💻 나의 기여 내역 — WEB6_8_SamSamOO_BE (Balaw - AI 법률 서비스)
+# 👨‍💻 WEB6_8_SamSamOO_BE - AI 법률 서비스 BaLaw
 
 > Member 도메인 전체와 OAuth 소셜 로그인, JWT 인증 체계를 전담하였으며,
 > CI/CD 환경 설정 및 Swagger 문서 구성도 담당하였습니다.
